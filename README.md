@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 3 [Live Link](#)
+## Project 3 [Live Link](https://live-proj-3.netlify.app)
 
 -   Skills Gained in this project
     -   Learnd to Place an image inside div and centering image without squishing or breaking image size with **object-fit** & **object-position**
